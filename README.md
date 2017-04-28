@@ -1,4 +1,4 @@
-##AX-03 Railgun 3D Printer
+<h1>AX-03 Railgun 3D Printer</h1>
 
 This is a fully open source heavy duty, Prusa i3 style direct drive 3D Printer. Designed to be highly sturdy and accurate, it uses MGN Rails for all linear motion and has a build volume of 220x220x150.
 
